@@ -8,6 +8,8 @@ return [
     'Magento_Theme' => 1,
     'Magento_Customer' => 1,
     'Magento_AdminNotification' => 1,
+    'MageWorx_PaymentRestriction' => 1,
+    'Magenticians_Mymodule' => 1,
     'Magento_Indexer' => 1,
     'Magento_AdvancedPricingImportExport' => 1,
     'Magento_Config' => 1,
@@ -142,6 +144,7 @@ return [
     'Dotdigitalgroup_Email' => 1,
     'Magento_WishlistAnalytics' => 1,
     'Magento_WishlistSampleData' => 1,
+    'Magnet_Device' => 1,
     'Shopial_Facebook' => 1,
     'Temando_Shipping' => 1,
     'Vertex_Tax' => 1
