@@ -1,0 +1,234 @@
+[2018-08-09 06:31:43] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 07:00:08] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 07:19:09] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 07:19:22] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 08:19:19] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 08:22:03] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 08:22:37] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 08:22:46] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:03:14] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:03:51] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:03:55] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:35:58] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 09:38:00] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 09:40:33] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 09:40:36] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 09:43:15] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 09:43:19] main.CRITICAL: Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\Config\\Dom.php:396)"} []
+[2018-08-09 09:44:03] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:44:22] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:44:55] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:44:58] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []
+[2018-08-09 09:45:50] main.CRITICAL: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ at C:\\xampp\\htdocs\\magento\\vendor\\magento\\framework\\View\\Model\\Layout\\Merge.php:728)"} []

@@ -1,0 +1,545 @@
+[2018-08-09 04:04:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:04:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:04:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:04:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 04:04:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:04:21] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:08:25] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:14:42] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:15:28] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:17:42] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:19:21] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:20:14] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:14] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:14] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:19] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:19] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:19] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:23] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:23] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:23] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:41] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:41] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:41] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:20:50] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:21:35] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:22:00] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:23:07] main.ERROR: Unable to send mail. mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing [] []
+[2018-08-09 04:23:08] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:23:08] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:23:08] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:23:21] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:23:21] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:23:21] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:23:21] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:23:21] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:36:48] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:36:48] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:36:48] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:36:48] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 04:36:48] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 04:37:21] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:37:21] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:37:21] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:37:21] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 04:37:21] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 04:37:33] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:37:33] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:37:33] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:37:33] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 04:37:33] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 04:42:38] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:42:38] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:42:38] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:42:38] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 04:42:38] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 04:43:07] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:43:07] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:43:07] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:43:07] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 04:43:07] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:43:56] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2018-08-09 04:44:58] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2018-08-09 06:28:46] main.ERROR: Unable to send mail. mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing [] []
+[2018-08-09 06:28:53] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:28:53] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:28:53] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:35] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:35] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:35] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:35] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 06:29:35] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 06:29:50] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:50] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:50] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:50] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:29:50] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 06:31:43] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 06:31:44] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 07:00:08] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 07:00:08] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 07:19:09] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 07:19:09] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 07:19:22] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 07:19:22] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 07:19:25] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:19:25] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:19:25] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:19:25] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:19:25] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:21:42] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:21:42] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:21:42] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:21:42] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 07:21:42] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 08:19:19] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 08:19:19] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 08:22:03] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 08:22:03] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 08:22:37] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 08:22:37] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 08:22:37] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 08:22:46] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 08:22:46] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 08:22:46] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:03:14] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:03:14] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:03:15] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:03:51] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:03:51] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:03:52] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:03:55] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:03:55] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:03:55] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:28:41] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:28:44] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:28:54] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:28:55] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:28:55] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:28:56] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:28:56] main.CRITICAL: Unable to resolve the source file for 'frontend/_view/en_US/Magento_Theme/favicon.ico' [] []
+[2018-08-09 09:28:59] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:29:00] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:29:03] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:29:03] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:29:31] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:29:31] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:29:31] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:29:31] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:29:31] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:31:05] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:31:05] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:31:05] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:31:05] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 09:31:05] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 09:35:23] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:35:25] main.INFO: Broken reference: the 'logger' element cannot be added as child to 'after.body.start', because the latter doesn't exist [] []
+[2018-08-09 09:35:58] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:35:58] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:38:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:38:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:40:33] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:40:33] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:40:36] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:40:36] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:43:15] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:43:15] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:43:19] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c22a83cdb921684ced160c2967bb890c and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:43:19] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_2c759f4b391478545bf539692566d3619 and handles default, catalog_product_view, catalog_product_view_type_simple, catalog_product_view_id_6, catalog_product_view_sku_24-MB02, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'body': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 722
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 727
+
+Element 'action': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 734
+ [] []
+[2018-08-09 09:44:03] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:44:03] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:44:03] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:44:22] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:44:22] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:44:22] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:44:55] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:44:55] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:44:55] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:44:58] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:44:59] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:44:59] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:45:50] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:45:51] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2018-08-09 09:45:51] main.INFO: Theme layout update file 'C:/xampp/htdocs/magento/app/code/Magenticians/Mymodule/view/frontend/layout/catalog_product_view.xml' is not valid.
+ [] []
+[2018-08-09 09:47:03] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:47:03] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:47:03] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:47:03] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 09:47:03] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 09:52:06] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:06] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:06] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:06] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 09:52:06] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 09:52:24] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:24] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:24] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:24] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 09:52:24] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:52:35] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:54:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:54:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:54:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:54:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 09:54:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 09:54:31] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:54:31] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:54:31] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:54:31] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2018-08-09 09:54:31] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2018-08-09 09:55:52] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:55:52] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:55:52] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-09 09:55:52] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-09 09:55:52] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-10 06:40:15] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:15] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:15] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:15] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:15] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:16] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:16] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:16] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:16] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:16] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:26] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:26] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:26] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:26] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:40:26] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:51:36] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:51:36] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:51:36] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2018-08-10 06:51:36] main.INFO: Broken reference: the 'skip_gallery_before' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_before.wrapper' and 'product.info.media' respectively. [] []
+[2018-08-10 06:51:36] main.INFO: Broken reference: the 'skip_gallery_after' tries to reorder itself towards 'product.info.media.image', but their parents are different: 'skip_gallery_after.wrapper' and 'product.info.media' respectively. [] []
