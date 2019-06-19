@@ -1,0 +1,23 @@
+version: '3.0'
+services:
+  web:
+    image: nilesh2718/magento2.1
+    volumes:
+      - db-daba:/var/www/html/daba
+    ports:
+      - "80:80"
+    links:
+      - db
+    env_file:
+      - env
+    
+  db:
+    image: mysql:5.7
+    volumes:
+      - db-data:/var/lib/mysql/data
+    env_file:
+      - env
+ 
+volumes:
+  db-data: 
+  db-daba:
