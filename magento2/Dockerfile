@@ -17,9 +17,26 @@ RUN requirements="libpng12-dev libmcrypt-dev libmcrypt4 libcurl3-dev libfreetype
     && apt-get purge --auto-remove -y $requirementsToRemove
 
 RUN chsh -s /bin/bash www-data
-RUN chown -R www-data:www-data /var/www/
-RUN mkdir /var/www/html/magentome
-COPY ./magentome /var/www/html/magentome/
+RUN chown -R www-data:www-data /var/www/html
+
+COPY ./upgrade-magento /usr/local/bin/upgrade-magento
+RUN chmod +x /usr/local/bin/upgrade-magento
+
+COPY ./permission -changer /usr/local/bin/permission -changer
+RUN chmod +x /usr/local/bin/permission -changer
+
+COPY ./static-content /usr/local/bin/static-content
+RUN chmod +x /usr/local/bin/static-content
+
+COPY ./reindex /usr/local/bin/reindex
+RUN chmod +x /usr/local/bin/reindex
+	
+COPY ./cache-clear /usr/local/bin/cache-clear
+RUN chmod +x /usr/local/bin/cache-clear
+
+
+
+
 
 
 RUN a2enmod rewrite
@@ -27,4 +44,9 @@ RUN echo "memory_limit=2048M" > /usr/local/etc/php/conf.d/memory-limit.ini
 
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
-WORKDIR /var/www/html
+WORKDIR /var/www/html/
+
+
+
+
+
